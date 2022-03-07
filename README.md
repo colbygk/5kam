@@ -2,7 +2,7 @@
 A Raspberry Pi 5K Camera handling application
 
 
-```
+```mermaid
 sequenceDiagram
     participant Alice
     participant Bob
