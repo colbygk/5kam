@@ -2,7 +2,8 @@
 A Raspberry Pi 5K Camera handling application
 
 
-``` sequenceDiagram
+```
+sequenceDiagram
     participant Alice
     participant Bob
     Alice->>John: Hello John, how are you?
